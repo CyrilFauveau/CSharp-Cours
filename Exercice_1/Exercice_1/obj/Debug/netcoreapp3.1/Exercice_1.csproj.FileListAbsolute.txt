@@ -1,0 +1,13 @@
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\bin\Debug\netcoreapp3.1\Exercice_1.exe
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\bin\Debug\netcoreapp3.1\Exercice_1.deps.json
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\bin\Debug\netcoreapp3.1\Exercice_1.runtimeconfig.json
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\bin\Debug\netcoreapp3.1\Exercice_1.runtimeconfig.dev.json
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\bin\Debug\netcoreapp3.1\Exercice_1.dll
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\bin\Debug\netcoreapp3.1\Exercice_1.pdb
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\obj\Debug\netcoreapp3.1\Exercice_1.csprojAssemblyReference.cache
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\obj\Debug\netcoreapp3.1\Exercice_1.AssemblyInfoInputs.cache
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\obj\Debug\netcoreapp3.1\Exercice_1.AssemblyInfo.cs
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\obj\Debug\netcoreapp3.1\Exercice_1.csproj.CoreCompileInputs.cache
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\obj\Debug\netcoreapp3.1\Exercice_1.dll
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\obj\Debug\netcoreapp3.1\Exercice_1.pdb
+C:\Users\Cyril\Documents\B3\C#\Exercice_1\Exercice_1\obj\Debug\netcoreapp3.1\Exercice_1.genruntimeconfig.cache
