@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Exercice_1
 {
@@ -6,28 +7,44 @@ namespace Exercice_1
     {
         static void Main(string[] args)
         {
-            var rnd = new Random();
-            var nb = rnd.Next(100) + 1;
+            var game = new Game();
+            game.Play();
+        }
+    }
 
-            Console.WriteLine(nb);
+    public class Game
+    {
+        private readonly int _randomValue;
+
+        public Game(int maxValue)
+        {
+            var _randomValue = new Random().Next(maxValue) + 1;
+        }
+
+        public Game(): this(100) {}
+
+        public void Play()
+        {
             Console.WriteLine("Saisissez un nombre entre 1 et 100");
 
-            while (true)
+            bool win = false;
+
+            while (!win)
             {
                 int value = Convert.ToInt32(Console.ReadLine());
 
-                if (value < nb)
+                if (value < _randomValue)
                 {
                     Console.WriteLine("Plus grand");
                 }
-                else if (value > nb)
+                else if (value > _randomValue)
                 {
                     Console.WriteLine("Plus petit");
                 }
-                else if (value == nb)
+                else if (value == _randomValue)
                 {
                     Console.WriteLine("Gagné");
-                    break;
+                    win = true;
                 }
             }
         }
